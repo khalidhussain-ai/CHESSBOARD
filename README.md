@@ -1,0 +1,1 @@
+This project displays a chessboard using HTML and external CSS, with Unicode symbols representing chess pieces. It's a simple and clean layout, ideal for beginners to learn about grid layouts and styling basics.
